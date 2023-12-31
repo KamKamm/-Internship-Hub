@@ -1,5 +1,5 @@
 
-# Abuja Internship Hub  
+# Naija Intern Hub
 
 ## About
 
