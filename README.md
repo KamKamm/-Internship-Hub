@@ -33,15 +33,9 @@ This repository is a collection of internship opportunities in Abuja, Nigeria.
 * Organize information logically.
 * Follow Markdown formatting conventions.
 
-## License
-
-[Choose a license that suits your project, such as MIT or Creative Commons.]
 
 ## Contact
 
-[Your name or organization name]
-[Your email address]
+* KamKam [https://twitter.com/BIG_KAMKAM]
+* MR Dan[https://instagram.com/dans.io?igshid=ZDdkNTZiNTM=]
 
-## Acknowledgements
-
-[List any individuals or organizations who have contributed to the project.]
