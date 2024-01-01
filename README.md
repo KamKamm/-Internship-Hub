@@ -1,5 +1,5 @@
 
-# Naija Intern Hub
+# Naija Internship  Hub
 
 ## About
 
