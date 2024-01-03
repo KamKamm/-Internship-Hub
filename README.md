@@ -27,15 +27,13 @@ We have arrived! Use this repo to share and keep track of internship opportuniti
 	<p>
 		Join our dynamic community at ⬇️ <strong>Naija Internship Hub List</strong> ⬇️ and receive real-time email updates about the newest internship possibilities!
 		<br>
-		<div>
-<a href="https://pssrisk3bw9.typeform.com/to/ll5kJYZW">
-  <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
-</a>
-
-		</div>
+		<a href="https://pssrisk3bw9.typeform.com/to/ll5kJYZW">
+			<img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+		</a>
 		<sub><i>Be in the know about exciting internships in Abuja. Share your success stories with us for a chance to be highlighted!</i></sub>
 	</p>
 </div>
+
 
 
 
