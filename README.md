@@ -28,7 +28,7 @@ We have arrived! Use this repo to share and keep track of internship opportuniti
 		Join our dynamic community at ⬇️ <strong>Naija Internship Hub List</strong> ⬇️ and receive real-time email updates about the newest internship possibilities!
 			<br>
 			<div>
-			<a href="[https://swelist.com](https://pssrisk3bw9.typeform.com/to/ll5kJYZW)">
+			<a href="https://shorturl.at/fqzLU" target="_blank">
           <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="typeform">
         </a>
 			</div>
