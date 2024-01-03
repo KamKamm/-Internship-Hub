@@ -23,17 +23,18 @@ We have arrived! Use this repo to share and keep track of internship opportuniti
 
 ---
 <div align="center">
-	<h2>🚀 Stay Updated with the Latest Internship Opportunities! 🌟</h2>
+	<h3>🚀 Stay Updated with the Latest Internship Opportunities! 🌟</h3>
 	<p>
 		Join our dynamic community at ⬇️ <strong>Naija Internship Hub List</strong> ⬇️ and receive real-time email updates about the newest internship possibilities!
-		<br>
-		<a href="https://pssrisk3bw9.typeform.com/to/ll5kJYZW">
-			<img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
-		</a>
+			<br>
+			<div>
+			<a href="[https://swelist.com](https://pssrisk3bw9.typeform.com/to/ll5kJYZW)">
+          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="typeform">
+        </a>
+			</div>
 		<sub><i>Be in the know about exciting internships in Abuja. Share your success stories with us for a chance to be highlighted!</i></sub>
 	</p>
 </div>
-
 
 
 
