@@ -1,6 +1,6 @@
 # Abuja Internship Hub
 
-We're back! Use this repo to share and keep track of internship opportunities in Abuja, Nigeria for **Summer 2024**. The list is maintained collaboratively to benefit:
+We have arrived! Use this repo to share and keep track of internship opportunities in Abuja, Nigeria for the long run. The list is maintained collaboratively to benefit:
 
 ## Target Audience
 
@@ -9,7 +9,7 @@ We're back! Use this repo to share and keep track of internship opportunities in
 * Anyone interested in supporting career development opportunities in Abuja.
 
 
-:warning: Please note that this repository is exclusively for internships/co-ops in the Abuja, Nigeria or relative remote positions :earth_nigeria:
+:warning: Please note that this repository is exclusively for internships/co-ops in the Abuja, Nigeria or relative remote positions 🇳🇬
 
 🧠 For valuable tips on navigating the internship process, be sure to reach out to the team:
 
@@ -23,18 +23,19 @@ We're back! Use this repo to share and keep track of internship opportunities in
 
 ---
 <div align="center">
-	<h3>🌟 Don't miss out on new internship opportunities! 🌟</h3>
+	<h2>🚀 Stay Updated with the Latest Internship Opportunities! 🌟</h2>
 	<p>
-		Join our exclusive community-driven ⬇️ <strong>Naija Internship Hub List</strong> ⬇️ for instant email updates on the latest opportunities!
+		Join our dynamic community at ⬇️ <strong>Naija Internship Hub List</strong> ⬇️ and receive real-time email updates about the newest internship possibilities!
 		<br>
 		<div>
 			<a href="https://naijainternshiphublist.com">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
+          <img src="https://i.imgur.com/n8ZX4tt.png" width="350" alt="Email">
         </a>
 		</div>
-		<sub><i>Be the first to know about exciting internships in Abuja. Share your success stories with us for a shoutout!</i></sub>
+		<sub><i>Be in the know about exciting internships in Abuja. Share your success stories with us for a chance to be highlighted!</i></sub>
 	</p>
 </div>
+
 
 
 ---
