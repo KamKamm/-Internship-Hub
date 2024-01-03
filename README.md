@@ -1,4 +1,4 @@
-# Summer 2024 Tech Internships by Pitt CSC & Simplify
+# Abuja Internship Hub
 
 We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
@@ -66,3 +66,12 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | ↳ | Intern – Data Science - Summer 2024 | Toronto, ON, Canada | <a href="https://jobs.lever.co/wealthsimple/3a59dc79-c9f5-4987-8cf6-3e0d61d41929/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/49a59941-a154-46e9-8f80-dc34f1d29b22?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 02 |
 | **[Ripple](https://simplify.jobs/c/Ripple)** | Quantitative Trading Intern - Summer 2024 | London, UK | <a href="https://ripple.com/careers/all-jobs/job/5592859?gh_jid=5592859&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/03cc8913-10f5-4a0d-a560-e1f8d81391ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 02 |
 | **[Matroid](https://simplify.jobs/c/Matroid)** | Software Engineer Intern - Infrastructure - Summer 2024 | Palo Alto, CA | <a href="https://matroid.breezy.hr/p/bf4668116295/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/5487aba8-cea7-4bff-b9c7-99b90501a85a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Jan 02 |
+
+
+## Software Development
+
+| Company | Role | Description | Eligibility | Application Deadline | Contact |
+| ------- | ---- | ----------- | ------------ | --------------------- | ------- |
+| [Infobiz Consulting Ltd.](https://www.infobiz.com/) | Software Development Intern | Exciting opportunity to work on real-world projects. | Open to students pursuing a degree in Computer Science. | Jan 10, 2024 | hr@infobiz.com |
+| [GidiCode](https://www.gidicode.com/) | Junior Software Developer Intern | Join our dynamic team and enhance your coding skills. | Open to recent graduates with a passion for coding. | Open | careers@gidicode.com |
+| [Andela](https://andela.com/) | Frontend Developer Intern | Collaborate on cutting-edge web development projects. | Open to students with experience in frontend technologies. | Open | recruitment@andela.com |
