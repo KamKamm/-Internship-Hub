@@ -1,4 +1,4 @@
-# Abuja Internship Hub
+# Naija Internship Hub
 
 We have arrived! Use this repo to share and keep track of internship opportunities in Abuja, Nigeria for the long run. The list is maintained collaboratively to benefit:
 
